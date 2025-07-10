@@ -1,0 +1,17 @@
+{
+  "name": "ddos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "S M Fahim",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.13.11",
+    "axios": "^1.10.0",
+    "crypto-js": "^4.2.0"
+  }
+}
